@@ -1,7 +1,5 @@
 # TaskManager
 
-# Task Manager
-
 This is a simple full-stack Task Manager application built using **React**, **Node.js**, **Express.js**, and **Tailwind CSS**. The application allows users to manage their daily tasks by creating, editing, updating, completing, and deleting them through a clean and responsive user interface.
 
 The backend stores data in a local JSON file, making it a good project for understanding CRUD operations and REST APIs without using a database.
